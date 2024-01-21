@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+header{
+    text-align: center;
+}
+
 .resala{
-    font-weight: bold;
+    font-weight: bolder;
+    color: blueviolet;    
 }
